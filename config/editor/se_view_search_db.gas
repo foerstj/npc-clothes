@@ -436,6 +436,8 @@
 			{
 				search_template = "bd_ra_ro_";
 				search_template = "bd_ro_";
+
+				search_category = "amr_body_cloth";  // ADDED
 			}
 			[Leather]
 			{
