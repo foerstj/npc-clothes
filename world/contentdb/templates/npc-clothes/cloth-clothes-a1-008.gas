@@ -1,4 +1,4 @@
-[t:template,n:bd_cl_x_clothes_a1_008]
+[t:template,n:bd_cl_f_clothes_a1_008]
 {
 	specializes = base_body_armor_cloth;
 

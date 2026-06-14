@@ -1,4 +1,4 @@
-[t:template,n:bd_cl_f_g_c_avg_dungarees_a1_015]
+[t:template,n:bd_cl_f_dungarees_a1_015]
 {
 	specializes = base_body_armor_cloth;
 
