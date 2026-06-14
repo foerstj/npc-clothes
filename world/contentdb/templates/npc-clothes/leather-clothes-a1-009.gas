@@ -1,8 +1,8 @@
 [t:template,n:bd_le_x_clothes_a1_009]
 {
-	specializes = base_body_armor_cloth;
+	specializes = base_body_armor_leather;
 
-	category_name = "amr_body_cloth";
+	category_name = "amr_body_leather";
 	[common]
 	{
 	  b allow_modifiers = false;

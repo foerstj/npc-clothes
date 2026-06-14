@@ -431,6 +431,8 @@
 				search_template = "bd_un_sc";
 				search_template = "bd_ra_ch";
 				search_template = "bd_ra_sc";
+
+				search_category = "amr_body_chain";  // ADDED
 			}
 			[Cloth]
 			{
@@ -450,7 +452,8 @@
 				search_template = "bd_un_bl_";
 				search_template = "bd_un_le_";
 				search_template = "bd_un_sl_";
-				
+
+				search_category = "amr_body_leather";  // ADDED
 			}
 			[Plate]
 			{
@@ -469,7 +472,8 @@
 				search_template = "bd_un_br";
 				search_template = "bd_un_fp";
 				search_template = "bd_un_pl";
-				
+
+				search_category = "amr_body_plate";  // ADDED
 			}
 		}
 		[Boots]
