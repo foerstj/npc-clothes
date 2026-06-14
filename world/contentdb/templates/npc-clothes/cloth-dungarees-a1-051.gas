@@ -1,0 +1,23 @@
+[t:template,n:bd_cl_f_g_c_low_dungarees_a1_051]
+{
+	specializes = base_body_armor_cloth;
+
+	category_name = "amr_body_cloth";
+	[common]
+	{
+	  b allow_modifiers = false;
+		screen_name = "Dungarees";
+	}
+	[defend]
+	{
+		armor_style = 051;
+		armor_type = a1;
+	  f defense = 4.0;
+	}
+	[gui]
+	{
+		inventory_height = 2;
+		inventory_width = 2;
+		inventory_icon = b_gui_ig_i_a_pos_a1_051;
+	}
+}
