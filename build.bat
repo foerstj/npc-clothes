@@ -7,7 +7,7 @@ set map_cs=NPC Clothes Demo
 :: tank properties
 set year=2026
 set copyright=CC-BY-SA %year%
-set author=Firstie
+set author=Johannes Förstner
 set title=%map_cs%
 
 :: path of Bits dir
