@@ -18,6 +18,6 @@
 	{
 		inventory_height = 2;
 		inventory_width = 2;
-		inventory_icon = b_gui_ig_i_a_pos_a1_004;
+		inventory_icon = b_gui_ig_i_a_pos_a1_004_nc;
 	}
 }
