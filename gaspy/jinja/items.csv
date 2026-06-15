@@ -1,0 +1,11 @@
+material;stance;kind;model;texture;name;defense
+cloth;m;clothes;a1;004;Clothes;3
+cloth;f;clothes;a1;008;Clothes;1
+cloth;m;clothes;a1;020;Clothes;2
+cloth;r;clothes;a1;055;Clothes;2
+cloth;r;clothes;a1;059;Clothes;2
+cloth;f;clothes;a1;061;Clothes;1
+cloth;f;dungarees;a1;015;Dungarees;4
+cloth;f;dungarees;a1;051;Dungarees;4
+cloth;m;pajamas;a1;005;Pajamas;1
+leather;r;clothes;a1;009;Clothes;5

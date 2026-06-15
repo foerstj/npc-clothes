@@ -1,0 +1,24 @@
+{% set mat = material[:2] %}
+[t:template,n:bd_{{ mat }}_{{ stance }}_{{ kind }}_{{ model }}_{{ texture }}]
+{
+	specializes = base_body_armor_{{ material }};
+
+	category_name = "amr_body_{{ material }}";
+	[common]
+	{
+	  b allow_modifiers = false;
+		screen_name = "{{ name }}";
+	}
+	[defend]
+	{
+		armor_style = {{ texture }};
+		armor_type = {{ model }};
+	  f defense = {{ defense | float }};
+	}
+	[gui]
+	{
+		inventory_height = 2;
+		inventory_width = 2;
+		inventory_icon = b_gui_ig_i_a_pos_{{ model }}_{{ texture }}_nc;
+	}
+}
