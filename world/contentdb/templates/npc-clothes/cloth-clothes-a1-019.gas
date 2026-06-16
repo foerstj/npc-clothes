@@ -6,7 +6,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
-		screen_name = "Gypsy Clothes";
+		screen_name = "Traveler Clothes";
 	}
 	[defend]
 	{
