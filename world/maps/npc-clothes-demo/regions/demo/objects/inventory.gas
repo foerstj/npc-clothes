@@ -2,69 +2,139 @@
 {
 	[placement]
 	{
-	  p position = -2.80389,-9.53674e-007,-2.78694,0x4b8b2bbb;
+	  p position = -3.62849,-9.53674e-007,-3.29272,0x4b8b2bbb;
 	}
 }
 [t:bd_cl_f_clothes_a1_008,n:0x00100001]
 {
 	[placement]
 	{
-	  p position = -1.57157,0,-2.95178,0x4b8b2bbb;
+	  p position = -3.05624,0,-3.28813,0x4b8b2bbb;
 	}
 }
 [t:bd_cl_m_clothes_a1_020,n:0x00100002]
 {
 	[placement]
 	{
-	  p position = -0.318418,0,-2.93117,0x4b8b2bbb;
+	  p position = -2.42444,0,-3.27912,0x4b8b2bbb;
 	}
 }
 [t:bd_cl_r_clothes_a1_055,n:0x00100003]
 {
 	[placement]
 	{
-	  p position = 0.883267,0,-2.76634,0x4b8b2bbb;
+	  p position = -1.76425,0,-3.26587,0x4b8b2bbb;
 	}
 }
 [t:bd_cl_r_clothes_a1_059,n:0x00100004]
 {
 	[placement]
 	{
-	  p position = 1.87974,9.53674e-007,-2.97238,0x4b8b2bbb;
+	  p position = -1.11871,9.53674e-007,-3.29615,0x4b8b2bbb;
 	}
 }
 [t:bd_cl_f_clothes_a1_061,n:0x00100005]
 {
 	[placement]
 	{
-	  p position = 3.24543,9.53674e-007,-2.73544,0x4b8b2bbb;
+	  p position = -0.500927,9.53674e-007,-3.25969,0x4b8b2bbb;
 	}
 }
 [t:bd_cl_f_dungarees_a1_015,n:0x00100006]
 {
 	[placement]
 	{
-	  p position = -2.88283,0,-0.924518,0x4b8b2bbb;
+	  p position = 0.147217,0,-3.25318,0x4b8b2bbb;
 	}
 }
 [t:bd_cl_f_dungarees_a1_051,n:0x00100007]
 {
 	[placement]
 	{
-	  p position = -1.80577,0,-1.06842,0x4b8b2bbb;
+	  p position = 0.805995,0,-3.21104,0x4b8b2bbb;
 	}
 }
 [t:bd_cl_m_pajamas_a1_005,n:0x00100008]
 {
 	[placement]
 	{
-	  p position = 1.95934,0,-0.780637,0x4b8b2bbb;
+	  p position = 1.41501,0,-3.21705,0x4b8b2bbb;
 	}
 }
 [t:bd_le_r_clothes_a1_009,n:0x00100009]
 {
 	[placement]
 	{
-	  p position = 3.28288,0,-0.893684,0x4b8b2bbb;
+	  p position = 2.07783,0,-3.21077,0x4b8b2bbb;
+	}
+}
+[t:bd_cl_m_clothes_a1_010,n:0x0010000d]
+{
+	[placement]
+	{
+	  p position = -3.55523,-9.53674e-007,-1.46935,0x4b8b2bbb;
+	}
+}
+[t:bd_cl_m_clothes_a1_019,n:0x0010000e]
+{
+	[placement]
+	{
+	  p position = -2.89442,0,-1.67679,0x4b8b2bbb;
+	}
+}
+[t:bd_cl_m_clothes_a2_005,n:0x0010000f]
+{
+	[placement]
+	{
+	  p position = -2.07209,0,-1.47191,0x4b8b2bbb;
+	}
+}
+[t:bd_cl_m_rags_a7_047,n:0x00100010]
+{
+	[placement]
+	{
+	  p position = -1.28322,0,-1.4398,0x4b8b2bbb;
+	}
+}
+[t:bd_cl_r_clothes_a1_023,n:0x00100011]
+{
+	[placement]
+	{
+	  p position = -0.473614,-9.53674e-007,-1.5826,0x4b8b2bbb;
+	}
+}
+[t:bd_cl_r_clothes_a1_028,n:0x00100012]
+{
+	[placement]
+	{
+	  p position = 0.389997,9.53674e-007,-1.46224,0x4b8b2bbb;
+	}
+}
+[t:bd_cl_r_outfit_a1_026,n:0x00100013]
+{
+	[placement]
+	{
+	  p position = 1.22445,0,-1.51421,0x4b8b2bbb;
+	}
+}
+[t:bd_le_f_leather_a1_027,n:0x00100014]
+{
+	[placement]
+	{
+	  p position = 1.93751,9.53674e-007,-1.53968,0x4b8b2bbb;
+	}
+}
+[t:bd_le_f_minerwear_a1_006,n:0x00100015]
+{
+	[placement]
+	{
+	  p position = 2.77289,0,-1.56107,0x4b8b2bbb;
+	}
+}
+[t:bd_le_r_dress_a2_052,n:0x00100016]
+{
+	[placement]
+	{
+	  p position = 3.46809,0,-1.45311,0x4b8b2bbb;
 	}
 }
