@@ -12,6 +12,7 @@
 	{
 		armor_style = 027;
 		armor_type = a1;
+	  f defense = 5.0;
 	}
 	[gui]
 	{
