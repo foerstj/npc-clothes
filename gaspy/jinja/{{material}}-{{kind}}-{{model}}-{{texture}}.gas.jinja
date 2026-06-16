@@ -13,7 +13,9 @@
 	{
 		armor_style = {{ texture }};
 		armor_type = {{ model }};
+		{% if defense != '' %}
 	  f defense = {{ defense | float }};
+		{% endif %}
 	}
 	[gui]
 	{
