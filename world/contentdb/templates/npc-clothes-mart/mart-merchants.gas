@@ -1,0 +1,50 @@
+[t:template,n:base_npc_clothes_mart_merchant]
+{
+	specializes = base_npc_fb;
+	category_name = "1W_shopkeep";
+	doc = "NPC Clothes merchant";
+	[actor]
+	{
+		portrait_icon = b_gui_ig_i_ic_c_banthorne;
+	}
+	[aspect]
+	{
+		draw_selection_indicator = TRUE;
+		is_ghost_usable = TRUE;
+		use_range = 1;
+		[textures]
+		{
+			0 = b_c_gah_fb_skin_27;
+			1 = b_c_pos_a1_060;
+		}
+	}
+	[common]
+	{
+		screen_name = "The Brave Little Tailor";
+	}
+	[conversation]
+	{
+	}
+	[inventory]
+	{
+		custom_head = m_c_gah_fb_hlmt_head-02;
+		[equipment]
+		{
+			es_feet = bo_bo_le_light;
+		}
+	}
+	[mind]
+	{
+		jat_talk = world\ai\jobs\common\job_talk.skrit;
+	}
+	[respawn_shrine]
+	{
+	}
+	[store]
+	{
+		item_markup = 2;
+	}
+}
+
+[t:template,n:npc_clothes_mart_merchant_content_base] { specializes = base_npc_clothes_mart_merchant; }
+[t:template,n:npc_clothes_mart_merchant] { specializes = npc_clothes_mart_merchant_content; }

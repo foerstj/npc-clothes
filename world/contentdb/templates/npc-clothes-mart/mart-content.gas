@@ -1,0 +1,35 @@
+[t:template,n:npc_clothes_mart_merchant_content]
+{
+	specializes = npc_clothes_mart_merchant_content_base;
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+
+			[all*]
+			{
+				il_main = bd_cl_m_clothes_a1_004;
+				il_main = bd_cl_f_clothes_a1_008;
+				il_main = bd_cl_m_clothes_a1_020;
+				il_main = bd_cl_r_clothes_a1_055;
+				il_main = bd_cl_r_clothes_a1_059;
+				il_main = bd_cl_f_clothes_a1_061;
+				il_main = bd_cl_f_dungarees_a1_015;
+				il_main = bd_cl_f_dungarees_a1_051;
+				il_main = bd_cl_m_pajamas_a1_005;
+				il_main = bd_le_r_clothes_a1_009;
+				il_main = bd_le_f_minerwear_a1_006;
+				il_main = bd_cl_m_clothes_a1_010;
+				il_main = bd_cl_m_clothes_a1_019;
+				il_main = bd_cl_r_clothes_a1_023;
+				il_main = bd_cl_r_outfit_a1_026;
+				il_main = bd_le_f_leather_a1_027;
+				il_main = bd_cl_r_clothes_a1_028;
+				il_main = bd_cl_m_clothes_a2_005;
+				il_main = bd_le_r_dress_a2_052;
+				il_main = bd_cl_m_rags_a7_047;
+			}
+		}
+	}
+}

@@ -1,0 +1,21 @@
+[t:template,n:npc_clothes_mart_merchant_content]
+{
+	specializes = npc_clothes_mart_merchant_content_base;
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+
+			[all*]
+			{
+				{% for piece in data %}
+				{% set mat = piece['material'][:2] %}
+				{% set tns = ['bd', mat, piece['stance'], piece['kind'], piece['model'], piece['texture']] %}
+				{% set tn = tns | join('_') %}
+				il_main = {{tn}};
+				{% endfor %}
+			}
+		}
+	}
+}
