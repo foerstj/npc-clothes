@@ -29,6 +29,21 @@
 				il_main = bd_cl_m_clothes_a2_005;
 				il_main = bd_le_r_dress_a2_052;
 				il_main = bd_cl_m_rags_a7_047;
+				il_main = bd_cl_m_clothes_a1_030;
+				il_main = bd_le_f_clothes_a1_031;
+				il_main = bd_le_m_leather_a1_032;
+				il_main = bd_cl_m_clothes_a1_033;
+				il_main = bd_le_r_clothes_a1_034;
+				il_main = bd_le_f_leather_a1_035;
+				il_main = bd_le_m_leather_a1_038;
+				il_main = bd_le_m_leather_a1_056;
+				il_main = bd_le_f_armor_a1_058;
+				il_main = bd_cl_r_outfit_a1_060;
+				il_main = bd_cl_m_clothes_a1_063;
+				il_main = bd_le_r_clothes_a1_066;
+				il_main = bd_cl_r_clothes_a1_068;
+				il_main = bd_le_r_dress_a1_069;
+				il_main = bd_cl_m_clothes_a1_073;
 			}
 		}
 	}
