@@ -9,6 +9,23 @@
 	}
 	[placement]
 	{
-	  p position = 0,0,-2,0x7c268629;
+	  q orientation = 0,5.86846e-007,0,1;
+	  p position = -3.19143,0,-1.66696,0x41051e1d;
+	}
+}
+[t:dog_sleeping,n:0x00100004]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.382684,0,0.92388;
+	  p position = 3.89932,0,-0.792629,0x9677bf48;
+	}
+}
+[t:mule,n:0x00100018]
+{
+	[placement]
+	{
+	  q orientation = 0,0.92388,0,0.382683;
+	  p position = -1.50295,-1.90735e-006,-2.68265,0x9677bf48;
 	}
 }

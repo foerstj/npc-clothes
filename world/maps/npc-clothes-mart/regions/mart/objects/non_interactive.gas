@@ -1,0 +1,144 @@
+[t:torch_glb_stick,n:0x00100009]
+{
+	[light_flicker_lightweight]
+	{
+	  x siege_light = 0x1B760BCE;
+	}
+	[placement]
+	{
+	  p position = 2.15572,0,-1.16702,0x41051e1d;
+	}
+}
+[t:chair_csl_04,n:0x00100011]
+{
+	[placement]
+	{
+	  p position = -2.95446,-9.53674e-007,-3.07823,0x41051e1d;
+	}
+}
+[t:table_csl_01,n:0x00100015]
+{
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -3.38847,0,-0.400562,0x41051e1d;
+	}
+}
+[t:torch_glb_stick,n:0x00100008]
+{
+	[light_flicker_lightweight]
+	{
+	  x siege_light = 0xC0151F3F;
+	}
+	[placement]
+	{
+	  p position = -2.40421,0,-3.35165,0x7c268629;
+	}
+}
+[t:tent_grs_camp,n:0x00100006]
+{
+	[placement]
+	{
+	  q orientation = 0,0.382683,0,0.92388;
+	  p position = 2.27725,0,-2.12291,0x9677bf48;
+	}
+}
+[t:torch_glb_stick,n:0x00100007]
+{
+	[light_flicker_lightweight]
+	{
+	  x siege_light = 0x1B8FF53C;
+	}
+	[placement]
+	{
+	  p position = 0.201202,-1.90735e-006,3.0169,0x9677bf48;
+	}
+}
+[t:cart_glb,n:0x0010000b]
+{
+	[placement]
+	{
+	  p position = -1.84007,0,1.53954,0x9677bf48;
+	}
+}
+[t:supplies_glb_03,n:0x0010000c]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = -1.83372,0.546761,1.37766,0x9677bf48;
+	}
+}
+[t:bench_glb_01,n:0x0010000e]
+{
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 2.55249,0,1.72447,0x9677bf48;
+	}
+}
+[t:bread_glb,n:0x0010000f]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.382683,0,0.92388;
+	  p position = 2.54564,0.684644,2.15766,0x9677bf48;
+	}
+}
+[t:books_glb_02,n:0x00100010]
+{
+	[placement]
+	{
+	  q orientation = 0,0.382683,0,0.92388;
+	  p position = 2.55738,0.641267,1.2097,0x9677bf48;
+	}
+}
+[t:cloth_glb_bolt_01,n:0x00100012]
+{
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 1.8818,0,-1.56545,0x9677bf48;
+	}
+}
+[t:cloth_glb_bolt_03,n:0x00100013]
+{
+	[placement]
+	{
+	  q orientation = 0,1,0,-5.96046e-008;
+	  p position = 2.40645,0,-2.11073,0x9677bf48;
+	}
+}
+[t:planter_csl_02,n:0x00100014]
+{
+	[placement]
+	{
+	  p position = -0.234512,0,0.528784,0x9677bf48;
+	}
+}
+[t:woodbox_grs,n:0x00100017]
+{
+	[placement]
+	{
+	  q orientation = 0,0.92388,0,0.382683;
+	  p position = 3.88052,-9.53674e-007,-3.27814,0x9677bf48;
+	}
+}
+[t:tripod_grs_01,n:0x00100005]
+{
+	[placement]
+	{
+	  p position = -2.49936,0,0.172256,0x5eefbd90;
+	}
+}
+[t:firepit_glb_03,n:0x0010000a]
+{
+	[light_flicker_lightweight]
+	{
+	  x siege_light = 0xC7DF8B26;
+	}
+	[placement]
+	{
+	  p position = -2.49748,0,0.349992,0x5eefbd90;
+	}
+}
