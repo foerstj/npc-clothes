@@ -13,7 +13,7 @@
 				{% set mat = piece['material'][:2] %}
 				{% set tns = ['bd', mat, piece['stance'], piece['kind'], piece['model'], piece['texture']] %}
 				{% set tn = tns | join('_') %}
-				il_main = {{tn}};
+				il_main = #{{tn}};
 				{% endfor %}
 			}
 		}
