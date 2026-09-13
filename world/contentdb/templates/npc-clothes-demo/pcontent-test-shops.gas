@@ -35,7 +35,7 @@
 {
 	specializes = base_npc_clothes_pcontent_test_merchant;
 
-	common:screen_name = "#body/0-3";
+	common:screen_name = "#body/0-7";
 	[inventory]
 	{
 		[store_pcontent]
@@ -45,7 +45,7 @@
 			{
 				[all*]
 				{
-					il_main = #body/0-3;
+					il_main = #body/0-7;
 					max = 32;
 					min = 32;
 				}
@@ -57,7 +57,7 @@
 {
 	specializes = base_npc_clothes_pcontent_test_merchant;
 
-	common:screen_name = "#body/4-7";
+	common:screen_name = "#body/8-15";
 	[inventory]
 	{
 		[store_pcontent]
@@ -67,7 +67,7 @@
 			{
 				[all*]
 				{
-					il_main = #body/4-7;
+					il_main = #body/8-15;
 					max = 32;
 					min = 32;
 				}
@@ -79,7 +79,7 @@
 {
 	specializes = base_npc_clothes_pcontent_test_merchant;
 
-	common:screen_name = "#body/8-11";
+	common:screen_name = "#body/16-23";
 	[inventory]
 	{
 		[store_pcontent]
@@ -89,7 +89,7 @@
 			{
 				[all*]
 				{
-					il_main = #body/8-11;
+					il_main = #body/16-23;
 					max = 32;
 					min = 32;
 				}
@@ -101,7 +101,7 @@
 {
 	specializes = base_npc_clothes_pcontent_test_merchant;
 
-	common:screen_name = "#body/12-15";
+	common:screen_name = "#body/24-31";
 	[inventory]
 	{
 		[store_pcontent]
@@ -111,7 +111,74 @@
 			{
 				[all*]
 				{
-					il_main = #body/12-15;
+					il_main = #body/24-31;
+					max = 32;
+					min = 32;
+				}
+			}
+		}
+	}
+}
+
+[t:template,n:npc_clothes_pcontent_test_merchant_body_f_1]
+{
+	specializes = base_npc_clothes_pcontent_test_merchant;
+
+	common:screen_name = "#body,f/0-15";
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 1;
+			[armor]
+			{
+				[all*]
+				{
+					il_main = #body,f/0-15;
+					max = 32;
+					min = 32;
+				}
+			}
+		}
+	}
+}
+[t:template,n:npc_clothes_pcontent_test_merchant_body_r_1]
+{
+	specializes = base_npc_clothes_pcontent_test_merchant;
+
+	common:screen_name = "#body,r/0-15";
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 1;
+			[armor]
+			{
+				[all*]
+				{
+					il_main = #body,r/0-15;
+					max = 32;
+					min = 32;
+				}
+			}
+		}
+	}
+}
+[t:template,n:npc_clothes_pcontent_test_merchant_body_m_1]
+{
+	specializes = base_npc_clothes_pcontent_test_merchant;
+
+	common:screen_name = "#body,m/0-15";
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 1;
+			[armor]
+			{
+				[all*]
+				{
+					il_main = #body,m/0-15;
 					max = 32;
 					min = 32;
 				}
