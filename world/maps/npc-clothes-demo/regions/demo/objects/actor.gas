@@ -32,3 +32,18 @@
 	  p position = 0.875904,0,3.34488,0x4b8b2bbb;
 	}
 }
+[t:npc_clothes_pcontent_test_merchant_body_1,n:0x00100017]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 2.84518,0,0.0308926,0x7ff6b13d;
+	}
+}
