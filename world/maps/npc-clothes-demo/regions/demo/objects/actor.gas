@@ -9,8 +9,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,1,0,-1.49012e-007;
-	  p position = -1.24384,0,3.37788,0x4b8b2bbb;
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 1.34428,0,-1.37762,0x7ff6b13d;
 	}
 }
 [t:jonn,n:0x0010000b]
@@ -28,8 +28,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,1,0,-1.49012e-007;
-	  p position = 0.875904,0,3.34488,0x4b8b2bbb;
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 1.37728,0,0.742123,0x7ff6b13d;
 	}
 }
 [t:npc_clothes_pcontent_test_merchant_body_1,n:0x00100017]
@@ -44,6 +44,6 @@
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
-	  p position = 2.84518,0,0.0308926,0x7ff6b13d;
+	  p position = -0.432663,0,-0.102889,0x7ff6b13d;
 	}
 }
