@@ -5,7 +5,7 @@
 	category_name = "amr_body_leather";
 	[common]
 	{
-	  b allow_modifiers = false;
+	  b allow_modifiers = true;
 		screen_name = "Leather";
 	}
 	[defend]
