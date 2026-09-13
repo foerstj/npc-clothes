@@ -44,6 +44,51 @@
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
-	  p position = -0.432663,0,-0.102889,0x7ff6b13d;
+	  p position = -0.667224,0,2.32184,0x7ff6b13d;
+	}
+}
+[t:npc_clothes_pcontent_test_merchant_body_2,n:0x00100018]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -0.599392,-9.53674e-007,0.606604,0x7ff6b13d;
+	}
+}
+[t:npc_clothes_pcontent_test_merchant_body_3,n:0x00100019]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -0.568753,9.53674e-007,-1.13934,0x7ff6b13d;
+	}
+}
+[t:npc_clothes_pcontent_test_merchant_body_4,n:0x0010001a]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -0.584075,0,-2.97669,0x7ff6b13d;
 	}
 }

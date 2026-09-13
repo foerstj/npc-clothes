@@ -35,7 +35,7 @@
 {
 	specializes = base_npc_clothes_pcontent_test_merchant;
 
-	common:screen_name = "#body/0-9";
+	common:screen_name = "#body/0-3";
 	[inventory]
 	{
 		[store_pcontent]
@@ -45,9 +45,75 @@
 			{
 				[all*]
 				{
-					il_main = #body/0-9;
-					max = 64;
-					min = 64;
+					il_main = #body/0-3;
+					max = 32;
+					min = 32;
+				}
+			}
+		}
+	}
+}
+[t:template,n:npc_clothes_pcontent_test_merchant_body_2]
+{
+	specializes = base_npc_clothes_pcontent_test_merchant;
+
+	common:screen_name = "#body/4-7";
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 1;
+			[armor]
+			{
+				[all*]
+				{
+					il_main = #body/4-7;
+					max = 32;
+					min = 32;
+				}
+			}
+		}
+	}
+}
+[t:template,n:npc_clothes_pcontent_test_merchant_body_3]
+{
+	specializes = base_npc_clothes_pcontent_test_merchant;
+
+	common:screen_name = "#body/8-11";
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 1;
+			[armor]
+			{
+				[all*]
+				{
+					il_main = #body/8-11;
+					max = 32;
+					min = 32;
+				}
+			}
+		}
+	}
+}
+[t:template,n:npc_clothes_pcontent_test_merchant_body_4]
+{
+	specializes = base_npc_clothes_pcontent_test_merchant;
+
+	common:screen_name = "#body/12-15";
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 1;
+			[armor]
+			{
+				[all*]
+				{
+					il_main = #body/12-15;
+					max = 32;
+					min = 32;
 				}
 			}
 		}
