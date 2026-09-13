@@ -3,7 +3,7 @@
 	[text*]
 	{
 		choice = shop;
-		screen_text = "Shop?";
+		screen_text = "Oh my, customers already? I just arrived! Please excuse the mess. Have a look at my wares!";
 	  f scroll_rate = 10.000000;
 	}
 }

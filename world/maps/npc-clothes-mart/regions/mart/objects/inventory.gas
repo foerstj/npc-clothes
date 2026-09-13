@@ -1,5 +1,9 @@
 [t:bd_cl_f_clothes_a1_008,n:0x00100077]
 {
+	[aspect]
+	{
+	  b is_selectable = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;
@@ -8,6 +12,10 @@
 }
 [t:bd_le_r_clothes_a1_009,n:0x00100078]
 {
+	[aspect]
+	{
+	  b is_selectable = false;
+	}
 	[placement]
 	{
 	  q orientation = 0,0.382683,0,0.92388;

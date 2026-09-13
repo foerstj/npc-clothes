@@ -15,6 +15,14 @@
 }
 [t:dog_sleeping,n:0x00100004]
 {
+	[aspect]
+	{
+	  b is_selectable = true;
+	}
+	[common]
+	{
+		screen_name = "Hoozaguboi";
+	}
 	[placement]
 	{
 	  q orientation = 0,-0.382684,0,0.92388;
@@ -23,6 +31,14 @@
 }
 [t:mule,n:0x00100018]
 {
+	[aspect]
+	{
+	  b is_selectable = true;
+	}
+	[common]
+	{
+		screen_name = "Wonkey the Donkey";
+	}
 	[placement]
 	{
 	  q orientation = 0,0.92388,0,0.382683;
