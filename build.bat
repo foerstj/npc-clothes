@@ -31,3 +31,14 @@ rmdir /S /Q "%tmp%\Bits"
 robocopy "%bits%\world\maps\%mod%-demo" "%tmp%\Bits\world\maps\%mod%-demo" /S
 "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod_cs% Demo.dsmap" -copyright "%copyright%" -title "%title%" -author "%author%"
 if %errorlevel% neq 0 pause
+
+:: Compile mart map file
+rmdir /S /Q "%tmp%\Bits"
+robocopy "%bits%\world\maps\%mod%-mart" "%tmp%\Bits\world\maps\%mod%-mart" /S
+"%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod_cs% Mart.dsmap" -copyright "%copyright%" -title "%title%" -author "%author%"
+if %errorlevel% neq 0 pause
+:: Compile mart resource file
+rmdir /S /Q "%tmp%\Bits"
+robocopy "%bits%\world\contentdb\templates\%mod%-mart" "%tmp%\Bits\world\contentdb\templates\%mod%-mart" /S
+"%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod_cs% Mart.dsres" -copyright "%copyright%" -title "%title%" -author "%author%"
+if %errorlevel% neq 0 pause
