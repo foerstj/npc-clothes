@@ -3,20 +3,20 @@
 	[t:start_group,n:default]
 	{
 	  b default = true;
-		description = "This is the default group.";
+		description = "Life is hard, let's go shopping!";
 	  b dev_only = false;
 	  i id = 0;
-		screen_name = "";
+		screen_name = "NPC Clothes Boutique";
 		[start_position]
 		{
 		  i id = 1;
-			position = 0.000000,0.000000,0.000000,0x7C268629;
+			position = 0.000000,0.000000,2.000000,0x7C268629;
 			[camera]
 			{
 			  f azimuth = 0.500000;
 			  f distance = 20.000000;
 			  f orbit = 0.000000;
-				position = 0.000000,0.000000,0.000000,0x7C268629;
+				position = 0.000000,0.000000,2.000000,0x7C268629;
 			}
 		}
 		[world_levels]
