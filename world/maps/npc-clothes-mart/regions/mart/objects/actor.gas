@@ -1,0 +1,14 @@
+[t:npc_clothes_mart_merchant,n:0x00100001]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[placement]
+	{
+	  p position = 0,0,-2,0x7c268629;
+	}
+}
