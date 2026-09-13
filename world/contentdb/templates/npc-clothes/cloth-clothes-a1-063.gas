@@ -6,7 +6,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
-		screen_name = "Clothes";
+		screen_name = "Threadbare Clothes";
 	}
 	[defend]
 	{

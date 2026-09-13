@@ -20,7 +20,7 @@ cloth;m;clothes;a2;005;Traveler Clothes;3
 leather;r;dress;a2;052;Leather Dress;6
 cloth;m;rags;a7;047;Rags;2
 cloth;m;clothes;a1;030;Clothes;3
-leather;f;clothes;a1;031;Warm Clothes;5
+leather;f;clothes;a1;031;Fur Clothes;5
 leather;m;leather;a1;032;Mage Leather;5
 cloth;m;clothes;a1;033;Clothes;3
 leather;r;clothes;a1;034;Leather;4
@@ -29,7 +29,7 @@ leather;m;leather;a1;038;Mage Leather;3
 leather;m;leather;a1;056;Mage Leather;3
 leather;f;armor;a1;058;Leather Armor;7
 cloth;r;outfit;a1;060;Outfit;4
-cloth;m;clothes;a1;063;Clothes;1
+cloth;m;clothes;a1;063;Threadbare Clothes;1
 leather;r;clothes;a1;066;Fur Clothes;6
 cloth;r;clothes;a1;068;Reinforced Clothes;5
 leather;r;dress;a1;069;Leather Dress;4
