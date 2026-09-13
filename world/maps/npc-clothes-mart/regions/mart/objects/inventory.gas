@@ -1,0 +1,16 @@
+[t:bd_cl_f_clothes_a1_008,n:0x00100077]
+{
+	[placement]
+	{
+	  q orientation = 0,0.382683,0,0.92388;
+	  p position = -3.63778,0.750031,-0.41652,0x41051e1d;
+	}
+}
+[t:bd_le_r_clothes_a1_009,n:0x00100078]
+{
+	[placement]
+	{
+	  q orientation = 0,0.382683,0,0.92388;
+	  p position = -2.91098,0.751933,-0.452439,0x41051e1d;
+	}
+}

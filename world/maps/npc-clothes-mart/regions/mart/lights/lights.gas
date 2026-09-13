@@ -1,5 +1,26 @@
 [lights]
 {
+	[t:point,n:light_0x12c91257]
+	{
+	  b active = true;
+	  b affects_actors = true;
+	  b affects_items = true;
+	  b affects_terrain = true;
+	  x color = 0xFFFFFF7F;
+	  b draw_shadow = false;
+	  f inner_radius = 0.000000;
+	  f intensity = 0.500000;
+	  b occlude_geometry = true;
+	  b on_timer = false;
+	  f outer_radius = 4.000000;
+		[position]
+		{
+		  x node = 0x41051E1D;
+		  f x = -2.411397;
+		  f y = 1.062342;
+		  f z = -1.032537;
+		}
+	}
 	[t:point,n:light_0x1b760bce]
 	{
 	  b active = true;

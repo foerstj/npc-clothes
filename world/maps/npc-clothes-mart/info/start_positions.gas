@@ -10,13 +10,13 @@
 		[start_position]
 		{
 		  i id = 1;
-			position = -0.035636,0.000000,-0.049331,0x82233A77;
+			position = -0.022610,0.000000,-2.055272,0x82233A77;
 			[camera]
 			{
 			  f azimuth = 0.500000;
 			  f distance = 20.000000;
 			  f orbit = 0.000000;
-				position = -0.035636,0.000000,-0.049331,0x82233A77;
+				position = -0.022610,0.000000,-2.055272,0x82233A77;
 			}
 		}
 		[world_levels]
