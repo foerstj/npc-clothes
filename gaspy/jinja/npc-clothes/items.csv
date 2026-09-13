@@ -1,36 +1,36 @@
-material;stance;kind;model;texture;name;defense;allow_modifiers
-cloth;m;clothes;a1;004;Clothes;3;true
-cloth;f;clothes;a1;008;Clothes;1;false
-cloth;m;clothes;a1;020;Clothes;2;true
-cloth;r;clothes;a1;055;Clothes;2;true
-cloth;r;clothes;a1;059;Clothes;2;false
-cloth;f;clothes;a1;061;Clothes;1;false
-cloth;f;dungarees;a1;015;Dungarees;4;false
-cloth;f;dungarees;a1;051;Dungarees;4;false
-cloth;m;pajamas;a1;005;Pajamas;1;false
-leather;r;clothes;a1;009;Clothes;5;false
-leather;f;minerwear;a1;006;Minerwear;4;false
-cloth;m;clothes;a1;010;Warm Clothes;4;true
-cloth;m;clothes;a1;019;Traveler Clothes;2;true
-cloth;r;clothes;a1;023;Clothes;2;false
-cloth;r;outfit;a1;026;Outfit;4;true
-leather;f;leather;a1;027;Leather;5;true
-cloth;r;clothes;a1;028;Clothes;3;true
-cloth;m;clothes;a2;005;Traveler Clothes;3;true
-leather;r;dress;a2;052;Leather Dress;6;true
-cloth;m;rags;a7;047;Rags;2;true
-cloth;m;clothes;a1;030;Clothes;3;true
-leather;f;clothes;a1;031;Fur Clothes;5;true
-leather;m;leather;a1;032;Mage Leather;5;true
-cloth;m;clothes;a1;033;Clothes;3;true
-leather;r;clothes;a1;034;Leather;4;true
-leather;f;leather;a1;036;Leather;5;false
-leather;m;leather;a1;038;Mage Leather;3;true
-leather;m;leather;a1;056;Mage Leather;3;true
-leather;f;armor;a1;058;Leather Armor;7;true
-cloth;r;outfit;a1;060;Outfit;4;true
-cloth;m;clothes;a1;063;Threadbare Clothes;1;false
-leather;r;clothes;a1;066;Fur Clothes;6;true
-cloth;r;clothes;a1;068;Reinforced Clothes;5;false
-leather;r;dress;a1;069;Leather Dress;4;true
-cloth;m;clothes;a1;073;Clothes;2;false
+material;stance;kind;model;texture;name;defense;allow_modifiers;strength;dexterity;intelligence
+cloth;m;clothes;a1;004;Clothes;3;true;;;
+cloth;f;clothes;a1;008;Clothes;1;false;;;
+cloth;m;clothes;a1;020;Clothes;2;true;;;
+cloth;r;clothes;a1;055;Clothes;2;true;;;
+cloth;r;clothes;a1;059;Clothes;2;false;;;
+cloth;f;clothes;a1;061;Clothes;1;false;;;
+cloth;f;dungarees;a1;015;Dungarees;4;false;;;
+cloth;f;dungarees;a1;051;Dungarees;4;false;;;
+cloth;m;pajamas;a1;005;Pajamas;1;false;;;
+leather;r;clothes;a1;009;Clothes;5;false;;;
+leather;f;minerwear;a1;006;Minerwear;4;false;;;
+cloth;m;clothes;a1;010;Warm Clothes;4;true;;;
+cloth;m;clothes;a1;019;Traveler Clothes;2;true;;;
+cloth;r;clothes;a1;023;Clothes;2;false;;;
+cloth;r;outfit;a1;026;Outfit;4;true;;;
+leather;f;leather;a1;027;Leather;5;true;;;
+cloth;r;clothes;a1;028;Clothes;3;true;;;
+cloth;m;clothes;a2;005;Traveler Clothes;3;true;;;
+leather;r;dress;a2;052;Leather Dress;6;true;11;;
+cloth;m;rags;a7;047;Rags;2;true;;;
+cloth;m;clothes;a1;030;Clothes;3;true;;;
+leather;f;clothes;a1;031;Fur Clothes;5;true;;;
+leather;m;leather;a1;032;Mage Leather;5;true;;;
+cloth;m;clothes;a1;033;Clothes;3;true;;;
+leather;r;clothes;a1;034;Leather;4;true;;;
+leather;f;leather;a1;036;Leather;5;false;;;
+leather;m;leather;a1;038;Mage Leather;3;true;;;
+leather;m;leather;a1;056;Mage Leather;3;true;;;11
+leather;f;armor;a1;058;Leather Armor;7;true;11;;
+cloth;r;outfit;a1;060;Outfit;4;true;;;
+cloth;m;clothes;a1;063;Threadbare Clothes;1;false;;;
+leather;r;clothes;a1;066;Fur Clothes;6;true;;;
+cloth;r;clothes;a1;068;Reinforced Clothes;5;false;;;
+leather;r;dress;a1;069;Leather Dress;4;true;;;
+cloth;m;clothes;a1;073;Clothes;2;false;;;
