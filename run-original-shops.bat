@@ -1,5 +1,3 @@
-:: name of map
-set map=npc-clothes-demo
 :: path of Bits dir
 set bits=%~dp0.
 :: path of DS installation

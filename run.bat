@@ -1,5 +1,5 @@
-:: name of map
-set map=npc-clothes-demo
+:: names
+set mod=npc-clothes
 :: path of Bits dir
 set bits=%~dp0.
 :: path of DS installation
@@ -11,7 +11,7 @@ call "%bits%\build.bat" %*
 ::pause
 
 :: Run it!
-"%ds%\DSLOA.exe" nointro=true map=%map%
+"%ds%\DSLOA.exe" nointro=true map=%mod%-demo
 
 :: Cleanup resources so as not to confuse Siege Editor
 call "%bits%\cleanup.bat" %*

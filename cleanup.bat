@@ -1,9 +1,9 @@
-:: name of map, case-sensitive
-set map_cs=NPC Clothes Demo
+:: names
+set mod_cs=NPC Clothes
 :: path of DS installation
 set ds=%DungeonSiege%
 
 :: Cleanup resources so as not to confuse Siege Editor
-del "%ds%\DSLOA\%map_cs%.dsres"
-:: map
-del "%ds%\DSLOA\%map_cs%.dsmap"
+del "%ds%\DSLOA\%mod_cs%.dsres"
+del "%ds%\DSLOA\%mod_cs% Demo.dsmap"
+del "%ds%\DSLOA\%mod_cs% Demo.dsres"
