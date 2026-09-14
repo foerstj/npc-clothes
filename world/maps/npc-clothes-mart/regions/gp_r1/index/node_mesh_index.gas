@@ -1,7 +1,5 @@
 [node_mesh_index]
 {
-	0x08700211 = t_dc01_spire-walkway-a;
-	0x08700212 = t_dc01_spire-walkway-start-a;
 	0x087004d6 = t_xxx_brdg_pillar-stg-08;
 	0x087004d7 = t_xxx_brdg_pillar-stg-12;
 	0x087004d8 = t_xxx_brdg_pillar-stg-24;
@@ -15,7 +13,6 @@
 	0x087004e0 = t_xxx_brdg_rck-08;
 	0x087004e1 = t_xxx_brdg_rck-12;
 	0x087004e2 = t_xxx_brdg_rck-16-c;
-	0x087004ff = t_xxx_brdg_tx-rop-wal-32;
 	0x08700509 = t_xxx_cnr_h2o_02a-ccav;
 	0x08700541 = t_xxx_cnr_08-ccav;
 	0x08700542 = t_xxx_cnr_08-cnvx;

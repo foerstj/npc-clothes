@@ -2,4 +2,12 @@
 {
 	source_region_guid = 0x00000001;
 	source_region_name = mart;
+	[t:stitch_editor,n:gp_r1]
+	{
+		dest_region = gp_r1;
+		[node_ids]
+		{
+			0x00000001 = 0xD18DE6E4,1;
+		}
+	}
 }
