@@ -1,13 +1,5 @@
 [node_mesh_index]
 {
-	0x08700209 = t_dc01_spire-button-base-a;
-	0x0870020a = t_dc01_spire-button-plate-a;
-	0x0870020b = t_dc01_spire-doortop-a;
-	0x0870020c = t_dc01_spire-elevator-base-a;
-	0x0870020d = t_dc01_spire-elevator-platform-a;
-	0x0870020e = t_dc01_spire-entrance-a;
-	0x0870020f = t_dc01_spire-roof-a;
-	0x08700210 = t_dc01_spire-top-a;
 	0x08700211 = t_dc01_spire-walkway-a;
 	0x08700212 = t_dc01_spire-walkway-start-a;
 	0x087004d6 = t_xxx_brdg_pillar-stg-08;
@@ -23,7 +15,6 @@
 	0x087004e0 = t_xxx_brdg_rck-08;
 	0x087004e1 = t_xxx_brdg_rck-12;
 	0x087004e2 = t_xxx_brdg_rck-16-c;
-	0x087004f2 = t_xxx_brdg_rop-32;
 	0x087004ff = t_xxx_brdg_tx-rop-wal-32;
 	0x08700509 = t_xxx_cnr_h2o_02a-ccav;
 	0x08700541 = t_xxx_cnr_08-ccav;
@@ -34,9 +25,7 @@
 	0x08700546 = t_xxx_cnr_24-cnvx;
 	0x08700547 = t_xxx_cnr_32-ccav;
 	0x08700548 = t_xxx_cnr_32-cnvx;
-	0x087005a7 = t_xxx_dgn_flr_ele-big-top-04x04-a;
-	0x087005ab = t_xxx_dgn_flr_ele-big-tube-04x04-d;
-	0x087005b2 = t_xxx_dgn_flr_ele-platform-04x04-a;
+	0x0870067e = t_xxx_flr_h2o_04x04-v0;
 	0x087006a5 = t_xxx_flr_04x04-v0;
 	0x087006a9 = t_xxx_flr_04x08-v0;
 	0x087006aa = t_xxx_flr_08x08-v0;
@@ -102,6 +91,7 @@
 	0x08700855 = t_xxx_pth_08x04-f;
 	0x08700859 = t_xxx_pth_08x04-j;
 	0x08700861 = t_xxx_pth_08x08-h;
+	0x0870097d = t_xxx_wal_h2o_02a-thin;
 	0x08700a05 = t_xxx_wal_08-diag-thick-l;
 	0x08700a06 = t_xxx_wal_08-diag-thick-r;
 	0x08700a07 = t_xxx_wal_08-diag-thin-l;
