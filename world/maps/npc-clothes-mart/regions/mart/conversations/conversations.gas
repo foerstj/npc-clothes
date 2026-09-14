@@ -3,7 +3,14 @@
 	[text*]
 	{
 		choice = shop;
-		screen_text = "Oh my, customers already? I just arrived! Please excuse the mess. Have a look at my wares!";
+	  i order = 0;
+		screen_text = "Oh dear, customers already? I - I just arrived. This map isn't even finished yet! Please excuse the mess.";
+	  f scroll_rate = 10.000000;
+	}
+	[text*]
+	{
+		choice = shop;
+		screen_text = "Please, take a look at my goods. Perhaps there is something that catches your fancy.";
 	  f scroll_rate = 10.000000;
 	}
 }
