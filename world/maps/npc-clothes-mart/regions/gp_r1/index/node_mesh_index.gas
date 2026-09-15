@@ -65,6 +65,8 @@
 	0x08700a0f = t_xxx_wal_08-thck;
 	0x08700a10 = t_xxx_wal_08-thin;
 	0x08700a1d = t_xxx_wal_12-diag-thick-l;
+	0x08700a1e = t_xxx_wal_12-diag-thick-r;
+	0x08700a1f = t_xxx_wal_12-diag-thin-l;
 	0x08700a20 = t_xxx_wal_12-diag-thin-r;
 	0x08700a25 = t_xxx_wal_12-thck;
 	0x08700a26 = t_xxx_wal_12-thin;
@@ -76,5 +78,8 @@
 	0x08700a34 = t_xxx_wal_24-diag-thin-r;
 	0x08700a35 = t_xxx_wal_24-thck;
 	0x08700a36 = t_xxx_wal_24-thin;
+	0x08700a3f = t_xxx_wal_32-diag-thin-l;
+	0x08700a40 = t_xxx_wal_32-diag-thin-r;
 	0x08700a41 = t_xxx_wal_32-thck;
+	0x08700a43 = t_xxx_wal_32-thin;
 }
