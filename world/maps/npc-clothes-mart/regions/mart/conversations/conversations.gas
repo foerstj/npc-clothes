@@ -4,7 +4,7 @@
 	{
 		choice = shop;
 	  i order = 0;
-		screen_text = "Oh dear, customers already? I - I just arrived. This map isn't even finished yet! Please excuse the mess.";
+		screen_text = "Welcome to my humble boutique, adventurer! Please, take a look at my goods. Perhaps there is something that catches your fancy.";
 	  f scroll_rate = 10.000000;
 	}
 	[text*]

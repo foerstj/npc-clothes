@@ -6,7 +6,7 @@
 		{
 			[*]
 			{
-				action* = mood_change("map_world_fh_r1_intro_1");
+				action* = mood_change("multiplayer_world_island_1");
 				action* = fade_nodes(0x2284EBC3,1,1,-1,"out:instant");
 			  b can_self_destruct = true;
 				condition* = party_member_within_bounding_box(4.000000,1.000000,4.000000,"on_every_enter");
