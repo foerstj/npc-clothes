@@ -1,3 +1,74 @@
+[t:bd_le_f_clothes_a1_031,n:0x00100061]
+{
+	[aspect]
+	{
+	  b is_selectable = false;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = 4.64687,-2.89045,-0.0787182,0xc1dd94ce;
+	}
+}
+[t:bd_le_m_leather_a1_038,n:0x00100062]
+{
+	[aspect]
+	{
+	  b is_selectable = false;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.707107,0,0.707107;
+	  p position = 4.92328,-2.86498,0.593873,0xc1dd94ce;
+	}
+}
+[t:bd_cl_f_dungarees_a1_015,n:0x00100063]
+{
+	[aspect]
+	{
+	  b is_selectable = false;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.382683,0,0.92388;
+	  p position = 3.96943,-2.87106,-2.07669,0xc1dd94ce;
+	}
+}
+[t:bd_cl_m_clothes_a2_005,n:0x00100064]
+{
+	[aspect]
+	{
+	  b is_selectable = false;
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.382683,0,0.92388;
+	  p position = 3.70474,-2.92473,-2.75569,0xc1dd94ce;
+	}
+}
+[t:bd_cl_r_outfit_a1_026,n:0x00100065]
+{
+	[aspect]
+	{
+	  b is_selectable = false;
+	}
+	[placement]
+	{
+	  p position = -1.42361,-2.86809,-1.38147,0xc1dd94ce;
+	}
+}
+[t:bd_cl_r_clothes_a1_028,n:0x00100066]
+{
+	[aspect]
+	{
+	  b is_selectable = false;
+	}
+	[placement]
+	{
+	  q orientation = 0,0.382683,0,0.92388;
+	  p position = -2.39368,-2.85944,-1.05734,0xc1dd94ce;
+	}
+}
 [t:bd_cl_f_clothes_a1_008,n:0x00100077]
 {
 	[aspect]
@@ -7,7 +78,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.92388,0,-0.382683;
-	  p position = 1.14125,-3.65,-1.73538,0xc1dd94ce;
+	  p position = 1.54954,-2.88372,-0.407278,0xc1dd94ce;
 	}
 }
 [t:bd_le_r_clothes_a1_009,n:0x00100078]
@@ -19,6 +90,6 @@
 	[placement]
 	{
 	  q orientation = 0,0.92388,0,-0.382683;
-	  p position = 0.414448,-3.65,-1.69946,0xc1dd94ce;
+	  p position = 0.82274,-2.88372,-0.371358,0xc1dd94ce;
 	}
 }

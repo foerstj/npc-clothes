@@ -1,0 +1,7 @@
+[t:emitter_glb_smoke_01,n:0x0010000b]
+{
+	[placement]
+	{
+	  p position = -3.83126,4.2257,2.0147,0xc1dd94ce;
+	}
+}
