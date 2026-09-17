@@ -1,8 +1,14 @@
 [node_mesh_index]
 {
-	0x001006a9 = t_xxx_flr_04x08-v0;
 	0x001006aa = t_xxx_flr_08x08-v0;
 	0x001007f2 = t_xxx_ledg_08-cnr-ccav-t;
 	0x001007f5 = t_xxx_ledg_08-cnr-cnvx-t;
 	0x001007fa = t_xxx_ledg_08-thck-t;
+	0x00100c1b = t_grs01_fence_generic_wood-04x04-a;
+	0x00100c1e = t_grs01_fence_generic_wood-04x04-d-l;
+	0x00100c1f = t_grs01_fence_generic_wood-04x04-d-r;
+	0x00100c23 = t_grs01_fence_generic_wood-cnvx-a;
+	0x00100c2e = t_grs01_houses_generic-b-log-door-top;
+	0x00100c2f = t_grs01_houses_generic-b-log;
+	0x00100c30 = t_grs01_houses_generic-b-roof-shingle;
 }

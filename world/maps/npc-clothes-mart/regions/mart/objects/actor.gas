@@ -1,3 +1,19 @@
+[t:mule,n:0x00100018]
+{
+	[aspect]
+	{
+	  b is_selectable = true;
+	}
+	[common]
+	{
+		screen_name = "Wonkey the Donkey";
+	}
+	[placement]
+	{
+	  q orientation = 0,0.382684,0,0.923879;
+	  p position = -3.67791,0,-1.13298,0x82233a77;
+	}
+}
 [t:npc_clothes_mart_merchant,n:0x00100001]
 {
 	[conversation]
@@ -9,8 +25,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,5.86846e-007,0,1;
-	  p position = -3.19143,0,-1.66696,0x41051e1d;
+	  q orientation = 0,1,0,-5.86846e-007;
+	  p position = 0.970614,-3.65,0.109171,0xc1dd94ce;
 	}
 }
 [t:dog_sleeping,n:0x00100004]
@@ -25,23 +41,7 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,-0.382684,0,0.92388;
-	  p position = 3.89932,0,-0.792629,0x9677bf48;
-	}
-}
-[t:mule,n:0x00100018]
-{
-	[aspect]
-	{
-	  b is_selectable = true;
-	}
-	[common]
-	{
-		screen_name = "Wonkey the Donkey";
-	}
-	[placement]
-	{
-	  q orientation = 0,0.92388,0,0.382683;
-	  p position = -1.50295,-1.90735e-006,-2.68265,0x9677bf48;
+	  q orientation = 0,0.382683,0,0.92388;
+	  p position = -3.2277,-4.65,-4.88649,0xc1dd94ce;
 	}
 }
