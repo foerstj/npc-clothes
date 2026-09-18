@@ -2,6 +2,7 @@
 {
 	description = "Life is hard, let's go shopping!";
   b dev_only = false;
+	multiplayer_only = true;
 	screen_name = "NPC Clothes Boutique";
 	timeofday = 10h0m;
   b use_node_mesh_index = true;
