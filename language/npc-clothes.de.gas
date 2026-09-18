@@ -1,0 +1,80 @@
+[t:0x0407,n:text]
+{
+
+	[0x0000]
+	{
+		from = "Clothes";
+		to = "Kleidung";
+	}
+	[0x0000]
+	{
+		from = "Warm Clothes";
+		to = "Warme Kleidung";
+	}
+	[0x0000]
+	{
+		from = "Traveler Clothes";
+		to = "Fahrenden-Kleidung";
+	}
+	[0x0000]
+	{
+		from = "Threadbare Clothes";
+		to = "Fadenscheinige Kleidung";
+	}
+	[0x0000]
+	{
+		from = "Reinforced Clothes";
+		to = "Verstärkte Kleidung";
+	}
+	[0x0000]
+	{
+		from = "Dungarees";
+		to = "Latzhose";
+	}
+	[0x0000]
+	{
+		from = "Outfit";
+		to = "Outfit";
+	}
+	[0x0000]
+	{
+		from = "Pajamas";
+		to = "Schlafanzug";
+	}
+	[0x0000]
+	{
+		from = "Rags";
+		to = "<ms>Lumpen";
+	}
+	[0x0000]
+	{
+		from = "Leather Armor";
+		to = "<fs>Lederrüstung";
+	}
+	[0x0000]
+	{
+		from = "Fur Clothes";
+		to = "Fellkleidung";
+	}
+	[0x0000]
+	{
+		from = "Leather";
+		to = "Leder";
+	}
+	[0x0000]
+	{
+		from = "Leather Dress";
+		to = "Lederkleid";
+	}
+	[0x0000]
+	{
+		from = "Mage Leather";
+		to = "<ns>Magierleder";
+	}
+	[0x0000]
+	{
+		from = "Minerwear";
+		to = "Minenarbeitskleidung";
+	}
+
+}

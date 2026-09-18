@@ -1,0 +1,19 @@
+[t:0x0407,n:text]
+{
+	[0x0000]
+	{
+		from = "The Brave Little Tailor";
+		to = "Das Tapfere Schneiderlein";
+	}
+
+	[0x0000]
+	{
+		from = "Welcome to my humble boutique, adventurer! Please, take a look at my goods. Perhaps there is something that catches your fancy.";
+		to = "Willkommen in meiner bescheidenen Boutique, Abenteurer! Werft doch bitte einen Blick auf meine Waren. Vielleicht ist ja etwas für Euch dabei.";
+	}
+	[0x0000]
+	{
+		from = "Please, take a look at my goods. Perhaps there is something that catches your fancy.";
+		to = "Werft doch bitte einen Blick auf meine Waren. Vielleicht ist ja etwas für Euch dabei.";
+	}
+}

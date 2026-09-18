@@ -26,6 +26,12 @@ robocopy "%bits%\world\contentdb\templates\%mod%" "%tmp%\Bits\world\contentdb\te
 "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod_cs%.dsres" -copyright "%copyright%" -title "%title%" -author "%author%"
 if %errorlevel% neq 0 pause
 
+:: Compile translation resource file
+rmdir /S /Q "%tmp%\Bits"
+robocopy "%bits%\language" "%tmp%\Bits\language" %mod%.de.gas %mod%-*.de.gas /S
+"%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod_cs%.de.dsres" -copyright "%copyright%" -title "%mod_cs%" -author "%author%"
+if %errorlevel% neq 0 pause
+
 :: Compile demo map file
 rmdir /S /Q "%tmp%\Bits"
 robocopy "%bits%\world\maps\%mod%-demo" "%tmp%\Bits\world\maps\%mod%-demo" /S
