@@ -1,0 +1,32 @@
+[mood_setting*]
+{
+	mood_name = npc-clothes-mart;
+
+	// based on multiplayer_world_island_1 with SeeFar100 (Firstie's build)
+  f transition_time = 5.000000;
+  b interior = false;
+	[frustum]
+	{
+	  f frustum_width = 94.500000;
+	  f frustum_height = 126.000000;
+	}
+	[fog]
+	{
+	  f fog_near_dist = 66.500000;
+	  f fog_far_dist = 100.000000;
+	  f fog_lowdetail_near_dist = 66.500000;
+	  f fog_lowdetail_far_dist = 90.000000;
+	  x fog_color = 0xFF757585;
+		fog_density = 0.5f;
+	}
+	[rain]
+	{
+	}
+	[music]
+	{
+		ambient_track = ;
+		standard_repeat_delay = 10.0f;
+		standard_track = s_m_BesiegedTown_02;
+		room_type = rt_generic;
+	}
+}

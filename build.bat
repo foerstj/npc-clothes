@@ -51,5 +51,6 @@ if %errorlevel% neq 0 pause
 :: Compile mart resource file
 rmdir /S /Q "%tmp%\Bits"
 robocopy "%bits%\world\contentdb\templates\%mod%-mart" "%tmp%\Bits\world\contentdb\templates\%mod%-mart" /S
+robocopy "%bits%\world\global\moods\%mod%-mart" "%tmp%\Bits\world\global\moods\%mod%-mart" /S
 "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod_cs% Mart.dsres" -copyright "%copyright%" -title "%title%" -author "%author%"
 if %errorlevel% neq 0 pause
